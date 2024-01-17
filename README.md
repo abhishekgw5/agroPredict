@@ -1,5 +1,4 @@
 ﻿# agroPredict
-# Agriculture Machine Learning Project
 
 ## Overview
 
@@ -26,7 +25,20 @@ This repository contains an agriculture-focused machine learning project aimed a
 - **Web Development (Flask):** Created a web-based interface for user interaction and model deployment.
 - **Data Analysis:** Conducted analysis on soil and image data.
 - **Rule-based Systems:** Integrated rules for disease prevention and recommendation strategies.
-- **Data Visualization (Matplotlib, Seaborn):** Created visualizations for model performance and data analysis.
-- **Git:** Managed version control for collaborative development.
+- **Data Visualization:** Created visualizations for model performance and data analysis.
 
+## Web Interface   
+1.  **Home Page:**
+      ![Screenshot 2023-12-30 180858](https://github.com/abhishekgw5/agroPredict/assets/111060091/87ed2ede-1e60-4993-8638-2bb05cad1e3d)
+    
+2.  **Crop Recommendation Page:**
+      ![Screenshot 2023-12-30 180912](https://github.com/abhishekgw5/agroPredict/assets/111060091/6f569381-4ad2-46d9-a5ca-be2afe649732)
    
+3. **Fertilizer Recommendation Page:**
+     ![Screenshot 2023-12-30 180943](https://github.com/abhishekgw5/agroPredict/assets/111060091/8e274540-9739-429d-8c11-27a3b520462f)
+
+4. **Plant Disease Prediction Page:**
+      ![Screenshot 2023-12-30 180951](https://github.com/abhishekgw5/agroPredict/assets/111060091/b92745ee-be0a-42c2-8d1e-315e21319451)
+
+
+
