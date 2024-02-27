@@ -14,7 +14,7 @@ This repository contains an agriculture-focused machine learning project aimed a
    - Recommends fertilizers based on soil data and selected crop.
    - Suggests improvements for soil nutrient levels.
 
-3. **Plant Disease Prediction:**
+3. **Crop Disease Prediction:**
    - Predicts diseases in plants using images of plant leaves.
    - Provides information on detected diseases and suggestions for mitigation.
 
@@ -26,6 +26,14 @@ This repository contains an agriculture-focused machine learning project aimed a
 - **Data Analysis:** Conducted analysis on soil and image data.
 - **Rule-based Systems:** Integrated rules for disease prevention and recommendation strategies.
 - **Data Visualization:** Created visualizations for model performance and data analysis.
+
+## Colab Notebooks for training & testing of Model
+#### Crop Recommendation
+https://colab.research.google.com/drive/1Z3_P4QK9qpmI_2pZaARYysZ602fMsPyc?usp=sharing
+
+#### Crop Disease Prediction
+https://colab.research.google.com/drive/1YQVYrzl8cX5We6YWmYjcRHvYsghmzY6a?usp=sharing
+
 
 ## Web Interface   
 1.  **Home Page:**
